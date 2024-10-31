@@ -96,3 +96,7 @@ git remote set-url origin https://<user_name>:<token>@huggingface.co/<repo_path>
 之后就可以成功push
 
 ![](Picture/push.png)
+
+最后回到space中的intern_cobuild, 即可看到新的页面
+
+![](./Picture/res.png)
